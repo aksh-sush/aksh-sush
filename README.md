@@ -9,8 +9,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-B6E2A1?style=for-the-badge&logo=mongodb&logoColor=black)
 ![Music Processing](https://img.shields.io/badge/Music%20Processing-D9ACF5?style=for-the-badge&logo=music&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksh-sush&theme=darkone&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-![Aksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksh-sush&theme=transparent&layout=pie" height="200"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=aksh-sush&show_icons=true&theme=transparent" height="200"/>
+  </a>
+</div>
 
 Just an average student aiming to land twice what I’m worth—thanks to all the boomer bald uncles loading me with fantasy and fallacy, enriching my life with fruitful delulu that I’m trying to break down… without having an actual breakdown.  
 
